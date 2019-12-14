@@ -167,7 +167,10 @@ footer nav a {
     text-decoration: none;
 }
 
-
-
+.First{
+    display:flex;
+}
+.Second{
+    display:flex;
 }
 
